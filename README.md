@@ -6,6 +6,11 @@
 - [x] Adobe anschauen
 
 **30.10**
-- [ ] Adobe - An 3d model arbeiten
-- [ ] Laptop mit neue features personalisieren
-- [ ] Meine Dateien usw. ordnen
+- [x] Adobe - An 3d model arbeiten
+- [x] Laptop mit neue features personalisieren
+- [x] Meine Dateien usw. ordnen
+
+**06.11**
+- [ ] An projekt weiter arbeiten
+- [ ] Modul 162
+- [ ] Agents auf Copilot erstellen
