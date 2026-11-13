@@ -11,6 +11,11 @@
 - [x] Meine Dateien usw. ordnen
 
 **06.11**
-- [ ] An projekt weiter arbeiten
+- [x] An projekt weiterarbeiten
+- [x] Modul 162
+- [x] Agents auf Copilot erstellen
+
+**13.11**
+- [ ] An projekt weiterarbeiten
 - [ ] Modul 162
-- [ ] Agents auf Copilot erstellen
+- [ ] Freifächer anschauen
